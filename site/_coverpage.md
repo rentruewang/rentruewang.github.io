@@ -1,5 +1,4 @@
 # RenChu Wang
 
-[Github](https://github.com/rentruewang)
-[Website](https://www.rentruewang.com)
+[Email](mailto:renchuwork@gmail.com)
 [CV](https://cv.rentruewang.com)
