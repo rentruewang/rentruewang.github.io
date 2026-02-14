@@ -16,11 +16,6 @@ jobs:
       - name: 🔔 Check out
         uses: actions/checkout@v4
 
-      - name: ⬇️ Set up Python + PDM
-        uses: pdm-project/setup-pdm@v4
-        with:
-          python-version: "3.13"
-
       - name: 📦 Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
